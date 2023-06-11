@@ -35,7 +35,8 @@ GROUP BY department
 ORDER BY no_of_workers DESC;
 ```
 ## OUTPUT:
-image
+![image](https://github.com/Archana2003-Jkumar/Exp2-dbms/assets/93427594/d5ffaed3-7431-4a04-81cf-79df9af8c9be)
+
 
 ## RESULT:
 Thus, sql query to fetch the number of workers for each department in descending order from the sample data is executed successfully.
